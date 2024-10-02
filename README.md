@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syren0914" alt="syren0914" /></a> </p>
 
-- 🔭 I’m currently working on Fullstack website [Outdoor-hibachi](https://hibachi-website.vercel.app)
+- 🔭 I’m currently working on building a Minecraft mods
 
 - 🌱 I’m currently learning **backend and framer motion**
 
 - 👯 I’m currently working on Fullstack website [glow-organic-salon](https://salon-pied.vercel.app)
 
-- 👨‍💻 All of my projects are available at [erdenebatbayar.com](erdenebatbayar.com)
+- 👨‍💻 All of my projects are available at [erdene.dev](erdene.dev)
 
 - 📫 How to reach me **Erdenebatbayar3gmail.com**
 
-- 📄 Know about my experiences [erdenebatbayar.com](erdenebatbayar.com)
+- 📄 Know about my experiences [erdene.dev](erdene.dev)
 
 - ⚡ Fun jokes **When did the SQL developer realize they were getting too old? When they started experiencing JOIN pains.**
 
