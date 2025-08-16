@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syren0914" alt="syren0914" /></a> </p>
 
-- 🔭 I’m currently working on building a Minecraft mods
+- 🔭 I’m currently working on building a next level CRM Platform
 
-- 🌱 I’m currently learning **backend and framer motion**
+- 🌱 I’m currently learning **ML/Hardware engineering **
 
-- 👯 I’m currently working on Fullstack website [glow-organic-salon](https://salon-pied.vercel.app)
+- 👯 I’m currently working on Fullstack website [AU QLD Property boundary map](https://boundary-au.vercel.app)
 
 - 👨‍💻 All of my projects are available at [erdene.dev](erdene.dev)
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/syren0914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="syren0914" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syren0914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syren0914" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Erdenebatbayar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syren0914" height="30" width="40" /></a>
 <a href="https://codesandbox.com/syren0914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="syren0914" height="30" width="40" /></a>
 <a href="https://instagram.com/syren0914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syren0914" height="30" width="40" /></a>
 </p>
