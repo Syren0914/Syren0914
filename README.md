@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [erdene.dev](erdene.dev)
 
-- 📫 How to reach me **Erdenebatbayar3gmail.com**
+- 📫 How to reach me **dev@erdene.dev**
 
 - 📄 Know about my experiences [erdene.dev](erdene.dev)
 
